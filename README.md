@@ -1,1 +1,1 @@
-# ContentBoostKe-Backend
+Backend for my ContentBoostKe App. I think it's too backward for Content Creators to post their till numbers in ther youtube's description videos and Social media channels. This is a replica of "Buy me a coffee", only that it's for Kenyans and it uses Mpesa for payments (as of now). By clicking a link, a fan is able to receive a prompt on their phone for the Mpesa pin and send his/her support to the Artist. INNIT# ContentBoostKe
